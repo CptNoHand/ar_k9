@@ -1,6 +1,6 @@
 {
     "standalone":true,
-    "allowedJobGrade": "k9",
+    "allowedJobGrade": "police",
     "vehicleBoneToAttachTo":"seat_pside_f",
     "dog": {
       "health":400,
