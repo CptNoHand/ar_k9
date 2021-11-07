@@ -1,5 +1,5 @@
 {
-    "standalone":false,
+    "standalone":true,
     "allowedJobGrade": "k9",
     "vehicleBoneToAttachTo":"seat_pside_f",
     "dog": {
@@ -42,24 +42,22 @@
       "commandEnterHelp":"~y~K9: ~w~You must be in a vehicle."
     },
     "illegalItems": [
-      "weed20g",
-      "weed4g",
-      "weedbrick",
-      "weed_packaged",
-      "weed_untrimmed",
-      "bagofdope",
+      "weed_white-widow",
+      "weed_skunk",
+      "weed_purple-haze",
+      "weed_og-kush",
+      "weed_amnesia",
+      "weed_ak47",
+      "weed_brick",
+      "coke_brick",
+      "joint",
+      "puremeth",
       "meth",
-      "meth10g",
-      "meth1g",
-      "methbrick",
-      "meth_packaged",
-      "meth_raw",
-      "cocaine_cut",
-      "cocaine_packaged",
-      "cocaine_uncut",
-      "coke10g",
-      "coke1g",
-      "cokebrick"
+      "cocaleaf",
+      "cokebaggy",
+      "crack_baggy",
+      "xtcbaggy",
+      "oxy"
     ],
     "illegalWeapons": [
         "WEAPON_BAT"
